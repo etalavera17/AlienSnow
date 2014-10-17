@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x2aad80" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x2aad80" />
+  <item nodeId="node-0x2aad80">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+Alien Snow
+An Interactive Fiction by EJ Talavera
+Release 1 / Serial number 141016 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+Living Room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="8">NO</temporary>
+    <children>
+      <child nodeId="node-0x2aadd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2aadd0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Kitchen
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="8">YES</temporary>
+    <children>
+      <child nodeId="node-0x2ab000" />
+      <child nodeId="node-0x2aaef0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2aaef0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="8">YES</temporary>
+    <children>
+      <child nodeId="node-0x2aaf40" />
+    </children>
+  </item>
+  <item nodeId="node-0x2aaf40">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Lab
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="8">YES</temporary>
+    <children>
+      <child nodeId="node-0x2aaf90" />
+    </children>
+  </item>
+  <item nodeId="node-0x2aaf90">
+    <command xml:space="preserve">x Analyzing machine</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+  </item>
+  <item nodeId="node-0x2ab000">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="4">YES</temporary>
+    <children>
+      <child nodeId="node-0x2ab070" />
+    </children>
+  </item>
+  <item nodeId="node-0x2ab070">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Lab
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3">YES</temporary>
+  </item>
+</Skein>
