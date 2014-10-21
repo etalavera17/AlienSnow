@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x2aad80" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x1c1750" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x2aad80" />
-  <item nodeId="node-0x2aad80">
+  <activeNode nodeId="node-0x1c1750" />
+  <item nodeId="node-0x1c1750">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
 
 Alien Snow
 An Interactive Fiction by EJ Talavera
-Release 1 / Serial number 141016 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+Release 1 / Serial number 141020 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
 
 Living Room
 
 &gt;</result>
     <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="8">NO</temporary>
+    <changed>YES</changed>
+    <temporary score="10">NO</temporary>
     <children>
-      <child nodeId="node-0x2aadd0" />
+      <child nodeId="node-0x1c17a0" />
     </children>
   </item>
-  <item nodeId="node-0x2aadd0">
+  <item nodeId="node-0x1c17a0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Kitchen
@@ -29,44 +29,114 @@ Kitchen
 &gt;</result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="8">YES</temporary>
+    <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0x2ab000" />
-      <child nodeId="node-0x2aaef0" />
+      <child nodeId="node-0x1cf520" />
+      <child nodeId="node-0x1c17f0" />
     </children>
   </item>
-  <item nodeId="node-0x2aaef0">
+  <item nodeId="node-0x1c17f0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
 &gt;</result>
     <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="8">YES</temporary>
+    <changed>NO</changed>
+    <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0x2aaf40" />
+      <child nodeId="node-0x1c1840" />
     </children>
   </item>
-  <item nodeId="node-0x2aaf40">
+  <item nodeId="node-0x1c1840">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
+You can see Steel door and Erwin here.
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="8">YES</temporary>
+    <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0x2aaf90" />
+      <child nodeId="node-0x1cf4b0" />
+      <child nodeId="node-0x1c1890" />
     </children>
   </item>
-  <item nodeId="node-0x2aaf90">
+  <item nodeId="node-0x1c1890">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">(first opening Steel door)
+The door is sealed shut and seems like opens only when the correct combination is spun in the spin dial at once. You must spin the dial to the correct 5 digit code.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+    <children>
+      <child nodeId="node-0x1c18e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1c18e0">
+    <command xml:space="preserve">dial 91998</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+    <children>
+      <child nodeId="node-0x1c1950" />
+    </children>
+  </item>
+  <item nodeId="node-0x1c1950">
+    <command xml:space="preserve">spin dial to 91998</command>
+    <result xml:space="preserve">The door unlocks and opens with a hiss
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf3a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf3a0">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">You open Steel door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf3f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf3f0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Testing Room
+You can see Steel door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cf440" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cf440">
+    <command xml:space="preserve">s</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="9">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cf4b0">
     <command xml:space="preserve">x Analyzing machine</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="7">YES</temporary>
   </item>
-  <item nodeId="node-0x2ab000">
+  <item nodeId="node-0x1cf520">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -75,10 +145,10 @@ Lab
     <changed>YES</changed>
     <temporary score="4">YES</temporary>
     <children>
-      <child nodeId="node-0x2ab070" />
+      <child nodeId="node-0x1c19c0" />
     </children>
   </item>
-  <item nodeId="node-0x2ab070">
+  <item nodeId="node-0x1c19c0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
