@@ -1,5 +1,7 @@
 "Alien Snow" by EJ Talavera
 
+The description of the player is "You're the son of a very wealthy family ."
+
 When play begins:
 	Say "While watching TV in the living room, you turn your head twords the window and notice something strange outside. You can't make out what it is because of all the snow outside. So you go to investigate."
 
@@ -34,7 +36,7 @@ North of Living room is the Front Yard.
 
 South of the Living room is the Kitchen.
 
-Kitchen is a room. The description is "A place where you mom creates the best dishes you have ever tasted, but since you can't cook you don't really come in here that often. North is the living room and east is the Lab."
+Kitchen is a room. The description is "A place where your mom creates the best dishes you have ever tasted, but since you can't cook you don't really come in here that often. North is the living room and east is the Lab."
 Knives is a thing in kitchen. The description is "Sharp knives that your mom using for cooking."
 Instead of taking knives: 
 	say "I don't think mom would be happy if you did that."
@@ -56,14 +58,14 @@ Hazmat suits are scenery in Lab. The description is "Suits just in case you and 
 In Lab is a male person called Erwin.
 The description of Erwin is "Erwin is your best friend since High School. He graduated from MIT summa cum laude. You offered him a place to live if he worked for you."
 Instead of asking Erwin about "Snow":
-	Say "Sorry man I dont know what that it is. Wow thats a first. You should probaly put it in the Analizing machine in the Testing room to find out what exactly it is."
+	Say "Sorry man I dont know what that it is. Wow thats a first."
 Instead of asking Erwin about "Dial Code":
-	Say "I think the code is 2369, but if not just ask someone else."
+	Say "The code is 2369, I wrote it in the palm of my hand incase I forgot."
 	
 
 
 [Dial Door code from cdamon17]
-Steel door is north of Lab and south of Testing Room. 
+Steel door is north of bunker and south of backyard. 
 Steel door is a door. 
 Steel door is fixed in place, locked and lockable, closed and openable. The description is "Its a sealed steel door. It seems to be locked. The only way to open it is by using a  mechanical dial. It looks like it's required to spin to a 4 digit code all at once in order for the door to become unocked. Maybe someone knows the code."
 Understand "dial" and "dials" as the door.
@@ -84,9 +86,18 @@ Instead of spinning the closed Steel door to 2369:
     now Steel door is unlocked;
     say "The door unlocks and opens with a hiss".
 
-Testing Room is a room. The description is "A place where you and alfred run all your test and simulations." 
+Bathroom is a room. The description is "A place where you go to do your buisness. Also if you get dangerous chemicals on yout body you can run straight from the lab to the bathroom to wash your self off. There is a sink on the west side, shower on the north side, and a toilet on the east side of the room. South is the Lab."
 
-North of Steel door is the Testing room.
+Sink is scenery in the bathroom. The description is "A place where you can wash your hands."
+
+Shower is scenery in the bathroom. The description is "A place where rinse yourself if your ever feeling dirty."
+
+Toilet is scenery in the bathroom. The description is "A place where you can relieve yourself if you ever need to."
+
+
+North of lab is the bathroom.
+
+North of Steel door is the backyard.
 
 East of the Kitchen is the Lab.
 
@@ -102,7 +113,6 @@ Beds are scenery in bunker. The description is "Beds that are small enough to ho
 
 Chairs are scenery in bunker. The description is "Foldable chairs that are used for sitting."
 
-South of the Backyard is the Bunker.
 
 [Taken from Tonic by Brianna hartner.]
  Metal head is a thing.  Metal head is in bunker.
@@ -150,6 +160,11 @@ Parts List    			Results
 
 
 Sledgehammer is an object. The sledgehammer unlocks the Ice pond. The description of the sledgehammer is "A sledgehammer that is used to break things."
+
+Understand the command "break" as something new.
+Understand the command "break" as "unlock".
+
+
 
 
 An every turn rule:
