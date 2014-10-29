@@ -24,7 +24,7 @@ Bucket of Snow is a thing in front yard. The description is "A bucket of snow th
 After examining ice pond:
 	say "Maybe a sledgehammer would do the trick."
 
-Ice heart is a thing in the Ice Pond. The description is "A heart made completely made out of ice."
+Ice heart is a thing in the Ice Pond. The description is "A heart completely made out of ice."
 
 
 In Front yard is a male person called Ice Angel. 
