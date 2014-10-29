@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x153a00" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x1f2540" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x68216e0" />
-  <item nodeId="node-0x153a00">
+  <activeNode nodeId="node-0x1f2540" />
+  <item nodeId="node-0x1f2540">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
@@ -21,12 +21,12 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>NO</changed>
     <temporary score="18">NO</temporary>
     <children>
-      <child nodeId="node-0x68e6a60" />
-      <child nodeId="node-0x68e5e10" />
-      <child nodeId="node-0x153a50" />
+      <child nodeId="node-0x68c9a60" />
+      <child nodeId="node-0x68c9600" />
+      <child nodeId="node-0x1f2590" />
     </children>
   </item>
-  <item nodeId="node-0x153a50">
+  <item nodeId="node-0x1f2590">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -35,10 +35,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x1536b0" />
+      <child nodeId="node-0x1f2670" />
     </children>
   </item>
-  <item nodeId="node-0x1536b0">
+  <item nodeId="node-0x1f2670">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Bedroom
@@ -49,10 +49,10 @@ You can see Wooden Handle here.
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x153700" />
+      <child nodeId="node-0x1f26c0" />
     </children>
   </item>
-  <item nodeId="node-0x153700">
+  <item nodeId="node-0x1f26c0">
     <command xml:space="preserve">take handel</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -61,10 +61,10 @@ You can see Wooden Handle here.
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x153770" />
+      <child nodeId="node-0x1f2730" />
     </children>
   </item>
-  <item nodeId="node-0x153770">
+  <item nodeId="node-0x1f2730">
     <command xml:space="preserve">take handle</command>
     <result xml:space="preserve">Taken.
 
@@ -73,10 +73,10 @@ You can see Wooden Handle here.
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x1537e0" />
+      <child nodeId="node-0x1f27a0" />
     </children>
   </item>
-  <item nodeId="node-0x1537e0">
+  <item nodeId="node-0x1f27a0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -85,10 +85,10 @@ You can see Wooden Handle here.
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x153850" />
+      <child nodeId="node-0x1f2810" />
     </children>
   </item>
-  <item nodeId="node-0x153850">
+  <item nodeId="node-0x1f2810">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -98,10 +98,10 @@ Living Room
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5530" />
+      <child nodeId="node-0x68c8d20" />
     </children>
   </item>
-  <item nodeId="node-0x68e5530">
+  <item nodeId="node-0x68c8d20">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Kitchen
@@ -111,10 +111,10 @@ Kitchen
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5580" />
+      <child nodeId="node-0x68c8d70" />
     </children>
   </item>
-  <item nodeId="node-0x68e5580">
+  <item nodeId="node-0x68c8d70">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -123,10 +123,10 @@ Kitchen
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e55d0" />
+      <child nodeId="node-0x68c8dc0" />
     </children>
   </item>
-  <item nodeId="node-0x68e55d0">
+  <item nodeId="node-0x68c8dc0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -135,10 +135,10 @@ Kitchen
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5620" />
+      <child nodeId="node-0x68c8e10" />
     </children>
   </item>
-  <item nodeId="node-0x68e5620">
+  <item nodeId="node-0x68c8e10">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -147,10 +147,10 @@ Kitchen
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5690" />
+      <child nodeId="node-0x68c8e80" />
     </children>
   </item>
-  <item nodeId="node-0x68e5690">
+  <item nodeId="node-0x68c8e80">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -161,10 +161,10 @@ You can see Steel door and Erwin here.
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e57c0" />
+      <child nodeId="node-0x68c8fb0" />
     </children>
   </item>
-  <item nodeId="node-0x68e57c0">
+  <item nodeId="node-0x68c8fb0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Backyard
@@ -174,10 +174,10 @@ Backyard
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x1538e0" />
+      <child nodeId="node-0x1f28a0" />
     </children>
   </item>
-  <item nodeId="node-0x1538e0">
+  <item nodeId="node-0x1f28a0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bunker
@@ -188,10 +188,10 @@ You can see Metal head here.
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5830" />
+      <child nodeId="node-0x68c9020" />
     </children>
   </item>
-  <item nodeId="node-0x68e5830">
+  <item nodeId="node-0x68c9020">
     <command xml:space="preserve">take head</command>
     <result xml:space="preserve">Taken.
 
@@ -200,10 +200,10 @@ You can see Metal head here.
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e58a0" />
+      <child nodeId="node-0x68c9090" />
     </children>
   </item>
-  <item nodeId="node-0x68e58a0">
+  <item nodeId="node-0x68c9090">
     <command xml:space="preserve">combine handle with head</command>
     <result xml:space="preserve">You fuse together Wooden Handle and Metal head.
 
@@ -214,10 +214,10 @@ You now have a Sledgehammer.
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5910" />
+      <child nodeId="node-0x68c9100" />
     </children>
   </item>
-  <item nodeId="node-0x68e5910">
+  <item nodeId="node-0x68c9100">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -226,10 +226,10 @@ You now have a Sledgehammer.
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5980" />
+      <child nodeId="node-0x68c9170" />
     </children>
   </item>
-  <item nodeId="node-0x68e5980">
+  <item nodeId="node-0x68c9170">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Backyard
@@ -239,10 +239,10 @@ Backyard
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e59f0" />
+      <child nodeId="node-0x68c91e0" />
     </children>
   </item>
-  <item nodeId="node-0x68e59f0">
+  <item nodeId="node-0x68c91e0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Lab
@@ -253,10 +253,10 @@ You can see Steel door and Erwin here.
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5a60" />
+      <child nodeId="node-0x68c9250" />
     </children>
   </item>
-  <item nodeId="node-0x68e5a60">
+  <item nodeId="node-0x68c9250">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Kitchen
@@ -266,10 +266,10 @@ Kitchen
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5700" />
+      <child nodeId="node-0x68c8ef0" />
     </children>
   </item>
-  <item nodeId="node-0x68e5700">
+  <item nodeId="node-0x68c8ef0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -278,10 +278,10 @@ Kitchen
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5750" />
+      <child nodeId="node-0x68c8f40" />
     </children>
   </item>
-  <item nodeId="node-0x68e5750">
+  <item nodeId="node-0x68c8f40">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -290,10 +290,10 @@ Kitchen
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5c50" />
+      <child nodeId="node-0x68c9440" />
     </children>
   </item>
-  <item nodeId="node-0x68e5c50">
+  <item nodeId="node-0x68c9440">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -303,10 +303,10 @@ Living Room
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5cc0" />
+      <child nodeId="node-0x68c94b0" />
     </children>
   </item>
-  <item nodeId="node-0x68e5cc0">
+  <item nodeId="node-0x68c94b0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Front Yard
@@ -319,10 +319,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5d30" />
+      <child nodeId="node-0x68c9520" />
     </children>
   </item>
-  <item nodeId="node-0x68e5d30">
+  <item nodeId="node-0x68c9520">
     <command xml:space="preserve">unlock Ice pond with Sledgehammer</command>
     <result xml:space="preserve">You unlock Ice pond.
 
@@ -331,16 +331,16 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="26">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5da0" />
+      <child nodeId="node-0x68c9590" />
     </children>
   </item>
-  <item nodeId="node-0x68e5da0">
+  <item nodeId="node-0x68c9590">
     <command xml:space="preserve">open pond</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="25">YES</temporary>
   </item>
-  <item nodeId="node-0x68e5e10">
+  <item nodeId="node-0x68c9600">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Front Yard
@@ -353,12 +353,12 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>NO</changed>
     <temporary score="18">YES</temporary>
     <children>
-      <child nodeId="node-0x68e67c0" />
-      <child nodeId="node-0x68e5ad0" />
-      <child nodeId="node-0x68e5e80" />
+      <child nodeId="node-0x68c9fb0" />
+      <child nodeId="node-0x68c92c0" />
+      <child nodeId="node-0x68c9670" />
     </children>
   </item>
-  <item nodeId="node-0x68e5e80">
+  <item nodeId="node-0x68c9670">
     <command xml:space="preserve">x Ice Angel</command>
     <result xml:space="preserve">A alien being from another planet that seems to be made out of ice. Maybe you should ask about it coming to earth.
 
@@ -367,11 +367,11 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>NO</changed>
     <temporary score="11">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5fd0" />
-      <child nodeId="node-0x68e5ef0" />
+      <child nodeId="node-0x68c97c0" />
+      <child nodeId="node-0x68c96e0" />
     </children>
   </item>
-  <item nodeId="node-0x68e5ef0">
+  <item nodeId="node-0x68c96e0">
     <command xml:space="preserve">Ask Ice Angel about coming to earth</command>
     <result xml:space="preserve">We have come here becuase we have lost an object very valuable to us and we will not leave until we&apos;ve got it.
 
@@ -380,16 +380,16 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="11">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5f60" />
+      <child nodeId="node-0x68c9750" />
     </children>
   </item>
-  <item nodeId="node-0x68e5f60">
+  <item nodeId="node-0x68c9750">
     <command xml:space="preserve">Ask Ice angel about object</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="10">YES</temporary>
   </item>
-  <item nodeId="node-0x68e5fd0">
+  <item nodeId="node-0x68c97c0">
     <command xml:space="preserve">ask Ice Angel about coming to earth</command>
     <result xml:space="preserve">We have come here becuase we have lost an object very valuable to us and we will not leave until we&apos;ve got it.
 
@@ -398,10 +398,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="7">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6040" />
+      <child nodeId="node-0x68c9830" />
     </children>
   </item>
-  <item nodeId="node-0x68e6040">
+  <item nodeId="node-0x68c9830">
     <command xml:space="preserve">ask about object</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -410,10 +410,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="7">YES</temporary>
     <children>
-      <child nodeId="node-0x68e60b0" />
+      <child nodeId="node-0x68c98a0" />
     </children>
   </item>
-  <item nodeId="node-0x68e60b0">
+  <item nodeId="node-0x68c98a0">
     <command xml:space="preserve">ask Ice Angel about object</command>
     <result xml:space="preserve">There is no reply.
 
@@ -422,7 +422,7 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="6">YES</temporary>
   </item>
-  <item nodeId="node-0x68e5ad0">
+  <item nodeId="node-0x68c92c0">
     <command xml:space="preserve">x pond</command>
     <result xml:space="preserve">A ice pond that has been frozen over. But it seems like you can see something inside the pond but you can&apos;t make out what it is. Maybe if you break open the pond, you might be able to get it.
 
@@ -433,10 +433,10 @@ Maybe a sledgehammer would do the trick.
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5b40" />
+      <child nodeId="node-0x68c9330" />
     </children>
   </item>
-  <item nodeId="node-0x68e5b40">
+  <item nodeId="node-0x68c9330">
     <command xml:space="preserve">x Ice angel</command>
     <result xml:space="preserve">A alien being from another planet that seems to be made out of ice. Maybe you should ask about it coming to earth.
 
@@ -445,10 +445,10 @@ Maybe a sledgehammer would do the trick.
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
     <children>
-      <child nodeId="node-0x68e5bb0" />
+      <child nodeId="node-0x68c93a0" />
     </children>
   </item>
-  <item nodeId="node-0x68e5bb0">
+  <item nodeId="node-0x68c93a0">
     <command xml:space="preserve">ask Ice angel about coming to earth</command>
     <result xml:space="preserve">We have come here becuase we have lost an object very valuable to us and we will not leave until we&apos;ve got it.
 
@@ -457,10 +457,10 @@ Maybe a sledgehammer would do the trick.
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6360" />
+      <child nodeId="node-0x68c9b50" />
     </children>
   </item>
-  <item nodeId="node-0x68e6360">
+  <item nodeId="node-0x68c9b50">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Living Room
@@ -471,10 +471,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
     <children>
-      <child nodeId="node-0x68e63d0" />
+      <child nodeId="node-0x68c9bc0" />
     </children>
   </item>
-  <item nodeId="node-0x68e63d0">
+  <item nodeId="node-0x68c9bc0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Bedroom
@@ -487,10 +487,10 @@ You can see Boots and Wooden Handle here.
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6440" />
+      <child nodeId="node-0x68c9c30" />
     </children>
   </item>
-  <item nodeId="node-0x68e6440">
+  <item nodeId="node-0x68c9c30">
     <command xml:space="preserve">take handle </command>
     <result xml:space="preserve">Taken.
 
@@ -499,10 +499,10 @@ You can see Boots and Wooden Handle here.
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
     <children>
-      <child nodeId="node-0x68e64b0" />
+      <child nodeId="node-0x68c9ca0" />
     </children>
   </item>
-  <item nodeId="node-0x68e64b0">
+  <item nodeId="node-0x68c9ca0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -511,10 +511,10 @@ You can see Boots and Wooden Handle here.
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6520" />
+      <child nodeId="node-0x68c9d10" />
     </children>
   </item>
-  <item nodeId="node-0x68e6520">
+  <item nodeId="node-0x68c9d10">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -523,10 +523,10 @@ You can see Boots and Wooden Handle here.
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6590" />
+      <child nodeId="node-0x68c9d80" />
     </children>
   </item>
-  <item nodeId="node-0x68e6590">
+  <item nodeId="node-0x68c9d80">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -537,10 +537,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6600" />
+      <child nodeId="node-0x68c9df0" />
     </children>
   </item>
-  <item nodeId="node-0x68e6600">
+  <item nodeId="node-0x68c9df0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Kitchen
@@ -553,10 +553,10 @@ You can see Knives here.
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6670" />
+      <child nodeId="node-0x68c9e60" />
     </children>
   </item>
-  <item nodeId="node-0x68e6670">
+  <item nodeId="node-0x68c9e60">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -569,10 +569,10 @@ You can see Erwin here.
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
     <children>
-      <child nodeId="node-0x68e66e0" />
+      <child nodeId="node-0x68c9ed0" />
     </children>
   </item>
-  <item nodeId="node-0x68e66e0">
+  <item nodeId="node-0x68c9ed0">
     <command xml:space="preserve">ask Erwin about snow</command>
     <result xml:space="preserve">Sorry man I dont know what that it is. Wow thats a first.
 
@@ -581,16 +581,16 @@ You can see Erwin here.
     <changed>YES</changed>
     <temporary score="22">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6750" />
+      <child nodeId="node-0x68c9f40" />
     </children>
   </item>
-  <item nodeId="node-0x68e6750">
+  <item nodeId="node-0x68c9f40">
     <command xml:space="preserve">ask Erwin about sledgehammer</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="21">YES</temporary>
   </item>
-  <item nodeId="node-0x68e67c0">
+  <item nodeId="node-0x68c9fb0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Living Room
@@ -601,10 +601,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>NO</changed>
     <temporary score="18">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6830" />
+      <child nodeId="node-0x68ca020" />
     </children>
   </item>
-  <item nodeId="node-0x68e6830">
+  <item nodeId="node-0x68ca020">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Bedroom
@@ -617,10 +617,10 @@ You can see Boots and Wooden Handle here.
     <changed>NO</changed>
     <temporary score="18">YES</temporary>
     <children>
-      <child nodeId="node-0x68e68a0" />
+      <child nodeId="node-0x68ca090" />
     </children>
   </item>
-  <item nodeId="node-0x68e68a0">
+  <item nodeId="node-0x68ca090">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -631,10 +631,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>NO</changed>
     <temporary score="18">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6910" />
+      <child nodeId="node-0x68ca100" />
     </children>
   </item>
-  <item nodeId="node-0x68e6910">
+  <item nodeId="node-0x68ca100">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Kitchen
@@ -647,10 +647,10 @@ You can see Knives here.
     <changed>NO</changed>
     <temporary score="18">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6980" />
+      <child nodeId="node-0x68ca170" />
     </children>
   </item>
-  <item nodeId="node-0x68e6980">
+  <item nodeId="node-0x68ca170">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -663,11 +663,11 @@ You can see Erwin here.
     <changed>YES</changed>
     <temporary score="18">YES</temporary>
     <children>
-      <child nodeId="node-0x68e69f0" />
-      <child nodeId="node-0x6897540" />
+      <child nodeId="node-0x68c99f0" />
+      <child nodeId="node-0x68ca1e0" />
     </children>
   </item>
-  <item nodeId="node-0x6897540">
+  <item nodeId="node-0x68ca1e0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -676,10 +676,10 @@ You can see Erwin here.
     <changed>NO</changed>
     <temporary score="18">YES</temporary>
     <children>
-      <child nodeId="node-0x68e4d20" />
+      <child nodeId="node-0x68ca250" />
     </children>
   </item>
-  <item nodeId="node-0x68e4d20">
+  <item nodeId="node-0x68ca250">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Kitchen
@@ -692,10 +692,10 @@ You can see Knives here.
     <changed>YES</changed>
     <temporary score="18">YES</temporary>
     <children>
-      <child nodeId="node-0x68a51a0" />
+      <child nodeId="node-0x68c9910" />
     </children>
   </item>
-  <item nodeId="node-0x68a51a0">
+  <item nodeId="node-0x68c9910">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -708,16 +708,16 @@ You can see Erwin here.
     <changed>YES</changed>
     <temporary score="18">YES</temporary>
     <children>
-      <child nodeId="node-0x68216e0" />
+      <child nodeId="node-0x68c9980" />
     </children>
   </item>
-  <item nodeId="node-0x68216e0">
+  <item nodeId="node-0x68c9980">
     <command xml:space="preserve">e</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="17">YES</temporary>
   </item>
-  <item nodeId="node-0x68e69f0">
+  <item nodeId="node-0x68c99f0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 backyard
@@ -730,7 +730,7 @@ You can see Steel door here.
     <changed>YES</changed>
     <temporary score="7">YES</temporary>
   </item>
-  <item nodeId="node-0x68e6a60">
+  <item nodeId="node-0x68c9a60">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Kitchen
@@ -743,13 +743,13 @@ You can see Knives here.
     <changed>NO</changed>
     <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0x68e87b0" />
-      <child nodeId="node-0x68e7080" />
-      <child nodeId="node-0x68e6fa0" />
-      <child nodeId="node-0x68e6120" />
+      <child nodeId="node-0x68cc160" />
+      <child nodeId="node-0x68caa30" />
+      <child nodeId="node-0x68ca950" />
+      <child nodeId="node-0x68c9ad0" />
     </children>
   </item>
-  <item nodeId="node-0x68e6120">
+  <item nodeId="node-0x68c9ad0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -762,11 +762,11 @@ You can see Erwin here.
     <changed>NO</changed>
     <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6200" />
-      <child nodeId="node-0x68e6190" />
+      <child nodeId="node-0x68ca330" />
+      <child nodeId="node-0x68ca2c0" />
     </children>
   </item>
-  <item nodeId="node-0x68e6190">
+  <item nodeId="node-0x68ca2c0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Testing Room
@@ -777,7 +777,7 @@ A place where you and alfred run all your test and simulations.
     <changed>YES</changed>
     <temporary score="9">YES</temporary>
   </item>
-  <item nodeId="node-0x68e6200">
+  <item nodeId="node-0x68ca330">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Kitchen
@@ -790,10 +790,10 @@ You can see Knives here.
     <changed>NO</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6270" />
+      <child nodeId="node-0x68ca3a0" />
     </children>
   </item>
-  <item nodeId="node-0x68e6270">
+  <item nodeId="node-0x68ca3a0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -806,10 +806,10 @@ You can see Erwin here.
     <changed>NO</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e62e0" />
+      <child nodeId="node-0x68ca410" />
     </children>
   </item>
-  <item nodeId="node-0x68e62e0">
+  <item nodeId="node-0x68ca410">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 backyard
@@ -822,10 +822,10 @@ You can see Steel door here.
     <changed>NO</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6ad0" />
+      <child nodeId="node-0x68ca480" />
     </children>
   </item>
-  <item nodeId="node-0x68e6ad0">
+  <item nodeId="node-0x68ca480">
     <command xml:space="preserve">open door</command>
     <result xml:space="preserve">The door is sealed shut and seems like opens only when the correct combination is spun in the spin dial at once. You must spin the dial to the correct 5 digit code.
 
@@ -834,10 +834,10 @@ You can see Steel door here.
     <changed>NO</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6b40" />
+      <child nodeId="node-0x68ca4f0" />
     </children>
   </item>
-  <item nodeId="node-0x68e6b40">
+  <item nodeId="node-0x68ca4f0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">(first opening Steel door)
 The door is sealed shut and seems like opens only when the correct combination is spun in the spin dial at once. You must spin the dial to the correct 5 digit code.
@@ -847,10 +847,10 @@ The door is sealed shut and seems like opens only when the correct combination i
     <changed>NO</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6bb0" />
+      <child nodeId="node-0x68ca560" />
     </children>
   </item>
-  <item nodeId="node-0x68e6bb0">
+  <item nodeId="node-0x68ca560">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">(first opening Steel door)
 The door is sealed shut and seems like opens only when the correct combination is spun in the spin dial at once. You must spin the dial to the correct 5 digit code.
@@ -860,10 +860,10 @@ The door is sealed shut and seems like opens only when the correct combination i
     <changed>NO</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6c20" />
+      <child nodeId="node-0x68ca5d0" />
     </children>
   </item>
-  <item nodeId="node-0x68e6c20">
+  <item nodeId="node-0x68ca5d0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -872,10 +872,10 @@ The door is sealed shut and seems like opens only when the correct combination i
     <changed>NO</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6c90" />
+      <child nodeId="node-0x68ca640" />
     </children>
   </item>
-  <item nodeId="node-0x68e6c90">
+  <item nodeId="node-0x68ca640">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Lab
@@ -888,10 +888,10 @@ You can see Erwin here.
     <changed>NO</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6d00" />
+      <child nodeId="node-0x68ca6b0" />
     </children>
   </item>
-  <item nodeId="node-0x68e6d00">
+  <item nodeId="node-0x68ca6b0">
     <command xml:space="preserve">ask erwin about dial code</command>
     <result xml:space="preserve">The code is 2369, I wrote it in the palm of my hand incase I forgot.
 
@@ -900,10 +900,10 @@ You can see Erwin here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6d70" />
+      <child nodeId="node-0x68ca720" />
     </children>
   </item>
-  <item nodeId="node-0x68e6d70">
+  <item nodeId="node-0x68ca720">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 backyard
@@ -916,10 +916,10 @@ You can see Steel door here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6de0" />
+      <child nodeId="node-0x68ca790" />
     </children>
   </item>
-  <item nodeId="node-0x68e6de0">
+  <item nodeId="node-0x68ca790">
     <command xml:space="preserve">dial 2369</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -928,10 +928,10 @@ You can see Steel door here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6e50" />
+      <child nodeId="node-0x68ca800" />
     </children>
   </item>
-  <item nodeId="node-0x68e6e50">
+  <item nodeId="node-0x68ca800">
     <command xml:space="preserve">spin dial to 2369</command>
     <result xml:space="preserve">The door unlocks and opens with a hiss
 &gt;</result>
@@ -939,10 +939,10 @@ You can see Steel door here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6ec0" />
+      <child nodeId="node-0x68ca870" />
     </children>
   </item>
-  <item nodeId="node-0x68e6ec0">
+  <item nodeId="node-0x68ca870">
     <command xml:space="preserve">open door</command>
     <result xml:space="preserve">You open Steel door.
 
@@ -951,16 +951,16 @@ You can see Steel door here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e6f30" />
+      <child nodeId="node-0x68ca8e0" />
     </children>
   </item>
-  <item nodeId="node-0x68e6f30">
+  <item nodeId="node-0x68ca8e0">
     <command xml:space="preserve">s</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="27">YES</temporary>
   </item>
-  <item nodeId="node-0x68e6fa0">
+  <item nodeId="node-0x68ca950">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -969,10 +969,10 @@ You can see Steel door here.
     <changed>YES</changed>
     <temporary score="4">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7010" />
+      <child nodeId="node-0x68ca9c0" />
     </children>
   </item>
-  <item nodeId="node-0x68e7010">
+  <item nodeId="node-0x68ca9c0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -982,7 +982,7 @@ Lab
     <changed>YES</changed>
     <temporary score="3">YES</temporary>
   </item>
-  <item nodeId="node-0x68e7080">
+  <item nodeId="node-0x68caa30">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -993,11 +993,11 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>YES</changed>
     <temporary score="49">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7ef0" />
-      <child nodeId="node-0x68e70f0" />
+      <child nodeId="node-0x68cb8a0" />
+      <child nodeId="node-0x68caaa0" />
     </children>
   </item>
-  <item nodeId="node-0x68e70f0">
+  <item nodeId="node-0x68caaa0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1006,10 +1006,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>NO</changed>
     <temporary score="49">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7160" />
+      <child nodeId="node-0x68cab10" />
     </children>
   </item>
-  <item nodeId="node-0x68e7160">
+  <item nodeId="node-0x68cab10">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Bedroom
@@ -1022,11 +1022,11 @@ You can see Boots and Wooden Handle here.
     <changed>YES</changed>
     <temporary score="49">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7be0" />
-      <child nodeId="node-0x68e71d0" />
+      <child nodeId="node-0x68cb590" />
+      <child nodeId="node-0x68cab80" />
     </children>
   </item>
-  <item nodeId="node-0x68e71d0">
+  <item nodeId="node-0x68cab80">
     <command xml:space="preserve">take handle</command>
     <result xml:space="preserve">Taken.
 
@@ -1035,10 +1035,10 @@ You can see Boots and Wooden Handle here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7240" />
+      <child nodeId="node-0x68cabf0" />
     </children>
   </item>
-  <item nodeId="node-0x68e7240">
+  <item nodeId="node-0x68cabf0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -1049,10 +1049,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e72b0" />
+      <child nodeId="node-0x68cac60" />
     </children>
   </item>
-  <item nodeId="node-0x68e72b0">
+  <item nodeId="node-0x68cac60">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Kitchen
@@ -1063,10 +1063,10 @@ A place where you mom creates the best dishes you have ever tasted, but since yo
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7320" />
+      <child nodeId="node-0x68cacd0" />
     </children>
   </item>
-  <item nodeId="node-0x68e7320">
+  <item nodeId="node-0x68cacd0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1075,10 +1075,10 @@ A place where you mom creates the best dishes you have ever tasted, but since yo
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7390" />
+      <child nodeId="node-0x68cad40" />
     </children>
   </item>
-  <item nodeId="node-0x68e7390">
+  <item nodeId="node-0x68cad40">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -1089,10 +1089,10 @@ You can see Steel door and Erwin here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7400" />
+      <child nodeId="node-0x68cadb0" />
     </children>
   </item>
-  <item nodeId="node-0x68e7400">
+  <item nodeId="node-0x68cadb0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Backyard
@@ -1102,10 +1102,10 @@ Backyard
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7470" />
+      <child nodeId="node-0x68cae20" />
     </children>
   </item>
-  <item nodeId="node-0x68e7470">
+  <item nodeId="node-0x68cae20">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1114,10 +1114,10 @@ Backyard
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e74e0" />
+      <child nodeId="node-0x68cae90" />
     </children>
   </item>
-  <item nodeId="node-0x68e74e0">
+  <item nodeId="node-0x68cae90">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1126,10 +1126,10 @@ Backyard
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7550" />
+      <child nodeId="node-0x68caf00" />
     </children>
   </item>
-  <item nodeId="node-0x68e7550">
+  <item nodeId="node-0x68caf00">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bunker
@@ -1140,10 +1140,10 @@ You can see Metal head here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e75c0" />
+      <child nodeId="node-0x68caf70" />
     </children>
   </item>
-  <item nodeId="node-0x68e75c0">
+  <item nodeId="node-0x68caf70">
     <command xml:space="preserve">take head</command>
     <result xml:space="preserve">Taken.
 
@@ -1152,10 +1152,10 @@ You can see Metal head here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7630" />
+      <child nodeId="node-0x68cafe0" />
     </children>
   </item>
-  <item nodeId="node-0x68e7630">
+  <item nodeId="node-0x68cafe0">
     <command xml:space="preserve">combine head with handle</command>
     <result xml:space="preserve">You fuse together Metal head and Wooden Handle.
 
@@ -1166,10 +1166,10 @@ You now have a Sledgehammer.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e76a0" />
+      <child nodeId="node-0x68cb050" />
     </children>
   </item>
-  <item nodeId="node-0x68e76a0">
+  <item nodeId="node-0x68cb050">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Backyard
@@ -1179,10 +1179,10 @@ Backyard
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7710" />
+      <child nodeId="node-0x68cb0c0" />
     </children>
   </item>
-  <item nodeId="node-0x68e7710">
+  <item nodeId="node-0x68cb0c0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bunker
@@ -1192,10 +1192,10 @@ Bunker
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7780" />
+      <child nodeId="node-0x68cb130" />
     </children>
   </item>
-  <item nodeId="node-0x68e7780">
+  <item nodeId="node-0x68cb130">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Backyard
@@ -1205,10 +1205,10 @@ Backyard
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e77f0" />
+      <child nodeId="node-0x68cb1a0" />
     </children>
   </item>
-  <item nodeId="node-0x68e77f0">
+  <item nodeId="node-0x68cb1a0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Lab
@@ -1219,10 +1219,10 @@ You can see Steel door and Erwin here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7860" />
+      <child nodeId="node-0x68cb210" />
     </children>
   </item>
-  <item nodeId="node-0x68e7860">
+  <item nodeId="node-0x68cb210">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Kitchen
@@ -1233,10 +1233,10 @@ A place where you mom creates the best dishes you have ever tasted, but since yo
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e78d0" />
+      <child nodeId="node-0x68cb280" />
     </children>
   </item>
-  <item nodeId="node-0x68e78d0">
+  <item nodeId="node-0x68cb280">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1245,10 +1245,10 @@ A place where you mom creates the best dishes you have ever tasted, but since yo
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7940" />
+      <child nodeId="node-0x68cb2f0" />
     </children>
   </item>
-  <item nodeId="node-0x68e7940">
+  <item nodeId="node-0x68cb2f0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -1259,10 +1259,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e79b0" />
+      <child nodeId="node-0x68cb360" />
     </children>
   </item>
-  <item nodeId="node-0x68e79b0">
+  <item nodeId="node-0x68cb360">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Front Yard
@@ -1275,10 +1275,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7a20" />
+      <child nodeId="node-0x68cb3d0" />
     </children>
   </item>
-  <item nodeId="node-0x68e7a20">
+  <item nodeId="node-0x68cb3d0">
     <command xml:space="preserve">unlock pond with sledgehammer</command>
     <result xml:space="preserve">You unlock Ice pond.
 
@@ -1287,10 +1287,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7a90" />
+      <child nodeId="node-0x68cb440" />
     </children>
   </item>
-  <item nodeId="node-0x68e7a90">
+  <item nodeId="node-0x68cb440">
     <command xml:space="preserve">open pond</command>
     <result xml:space="preserve">You open Ice pond, revealing Ice heart.
 
@@ -1299,10 +1299,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7b00" />
+      <child nodeId="node-0x68cb4b0" />
     </children>
   </item>
-  <item nodeId="node-0x68e7b00">
+  <item nodeId="node-0x68cb4b0">
     <command xml:space="preserve">take heart</command>
     <result xml:space="preserve">Taken.
 
@@ -1311,10 +1311,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="28">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7b70" />
+      <child nodeId="node-0x68cb520" />
     </children>
   </item>
-  <item nodeId="node-0x68e7b70">
+  <item nodeId="node-0x68cb520">
     <command xml:space="preserve">give heart to angel</command>
     <result xml:space="preserve">Thank you kind human for returning the Ice heart. We will leave this planet in peace.
 
@@ -1330,7 +1330,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="27">YES</temporary>
   </item>
-  <item nodeId="node-0x68e7be0">
+  <item nodeId="node-0x68cb590">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -1341,10 +1341,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>YES</changed>
     <temporary score="49">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7c50" />
+      <child nodeId="node-0x68cb600" />
     </children>
   </item>
-  <item nodeId="node-0x68e7c50">
+  <item nodeId="node-0x68cb600">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Front Yard
@@ -1357,10 +1357,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="49">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7cc0" />
+      <child nodeId="node-0x68cb670" />
     </children>
   </item>
-  <item nodeId="node-0x68e7cc0">
+  <item nodeId="node-0x68cb670">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Living Room
@@ -1371,10 +1371,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>YES</changed>
     <temporary score="49">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7d30" />
+      <child nodeId="node-0x68cb6e0" />
     </children>
   </item>
-  <item nodeId="node-0x68e7d30">
+  <item nodeId="node-0x68cb6e0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Kitchen
@@ -1387,10 +1387,10 @@ You can see Knives here.
     <changed>YES</changed>
     <temporary score="49">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7da0" />
+      <child nodeId="node-0x68cb750" />
     </children>
   </item>
-  <item nodeId="node-0x68e7da0">
+  <item nodeId="node-0x68cb750">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -1403,10 +1403,10 @@ You can see Steel door and Erwin here.
     <changed>YES</changed>
     <temporary score="49">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7e10" />
+      <child nodeId="node-0x68cb7c0" />
     </children>
   </item>
-  <item nodeId="node-0x68e7e10">
+  <item nodeId="node-0x68cb7c0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Backyard
@@ -1417,16 +1417,16 @@ A place where you and your family like to host parties and other stuff. There ar
     <changed>YES</changed>
     <temporary score="49">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7e80" />
+      <child nodeId="node-0x68cb830" />
     </children>
   </item>
-  <item nodeId="node-0x68e7e80">
+  <item nodeId="node-0x68cb830">
     <command xml:space="preserve">s</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="48">YES</temporary>
   </item>
-  <item nodeId="node-0x68e7ef0">
+  <item nodeId="node-0x68cb8a0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Bedroom
@@ -1437,10 +1437,10 @@ You can see Wooden Handle here.
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x68e7f60" />
+      <child nodeId="node-0x68cb910" />
     </children>
   </item>
-  <item nodeId="node-0x68e7f60">
+  <item nodeId="node-0x68cb910">
     <command xml:space="preserve">take handle</command>
     <result xml:space="preserve">Taken.
 
@@ -1449,11 +1449,11 @@ You can see Wooden Handle here.
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x68e84a0" />
-      <child nodeId="node-0x68e7fd0" />
+      <child nodeId="node-0x68cbe50" />
+      <child nodeId="node-0x68cb980" />
     </children>
   </item>
-  <item nodeId="node-0x68e7fd0">
+  <item nodeId="node-0x68cb980">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1462,10 +1462,10 @@ You can see Wooden Handle here.
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8040" />
+      <child nodeId="node-0x68cb9f0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8040">
+  <item nodeId="node-0x68cb9f0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -1475,10 +1475,10 @@ Living Room
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x68e80b0" />
+      <child nodeId="node-0x68cba60" />
     </children>
   </item>
-  <item nodeId="node-0x68e80b0">
+  <item nodeId="node-0x68cba60">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Kitchen
@@ -1488,10 +1488,10 @@ Kitchen
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8120" />
+      <child nodeId="node-0x68cbad0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8120">
+  <item nodeId="node-0x68cbad0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1500,10 +1500,10 @@ Kitchen
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8190" />
+      <child nodeId="node-0x68cbb40" />
     </children>
   </item>
-  <item nodeId="node-0x68e8190">
+  <item nodeId="node-0x68cbb40">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -1514,10 +1514,10 @@ You can see Steel door and Erwin here.
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8200" />
+      <child nodeId="node-0x68cbbb0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8200">
+  <item nodeId="node-0x68cbbb0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Backyard
@@ -1527,10 +1527,10 @@ Backyard
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8270" />
+      <child nodeId="node-0x68cbc20" />
     </children>
   </item>
-  <item nodeId="node-0x68e8270">
+  <item nodeId="node-0x68cbc20">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bunker
@@ -1541,10 +1541,10 @@ You can see Metal head here.
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x68e82e0" />
+      <child nodeId="node-0x68cbc90" />
     </children>
   </item>
-  <item nodeId="node-0x68e82e0">
+  <item nodeId="node-0x68cbc90">
     <command xml:space="preserve">take head</command>
     <result xml:space="preserve">Taken.
 
@@ -1553,10 +1553,10 @@ You can see Metal head here.
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8350" />
+      <child nodeId="node-0x68cbd00" />
     </children>
   </item>
-  <item nodeId="node-0x68e8350">
+  <item nodeId="node-0x68cbd00">
     <command xml:space="preserve">combine head with handle </command>
     <result xml:space="preserve">You fuse together Metal head and Wooden Handle.
 
@@ -1567,10 +1567,10 @@ You now have a Sledgehammer.
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x68e83c0" />
+      <child nodeId="node-0x68cbd70" />
     </children>
   </item>
-  <item nodeId="node-0x68e83c0">
+  <item nodeId="node-0x68cbd70">
     <command xml:space="preserve">x sledgehammer</command>
     <result xml:space="preserve">A sledgehammer that is used to break things.
 
@@ -1579,16 +1579,16 @@ You now have a Sledgehammer.
     <changed>YES</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8430" />
+      <child nodeId="node-0x68cbde0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8430">
+  <item nodeId="node-0x68cbde0">
     <command xml:space="preserve">break money with Sledgehammer</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="29">YES</temporary>
   </item>
-  <item nodeId="node-0x68e84a0">
+  <item nodeId="node-0x68cbe50">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -1598,10 +1598,10 @@ Living Room
     <changed>YES</changed>
     <temporary score="12">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8510" />
+      <child nodeId="node-0x68cbec0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8510">
+  <item nodeId="node-0x68cbec0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Kitchen
@@ -1611,10 +1611,10 @@ Kitchen
     <changed>YES</changed>
     <temporary score="12">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8580" />
+      <child nodeId="node-0x68cbf30" />
     </children>
   </item>
-  <item nodeId="node-0x68e8580">
+  <item nodeId="node-0x68cbf30">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -1625,10 +1625,10 @@ You can see Steel door and Erwin here.
     <changed>YES</changed>
     <temporary score="12">YES</temporary>
     <children>
-      <child nodeId="node-0x68e85f0" />
+      <child nodeId="node-0x68cbfa0" />
     </children>
   </item>
-  <item nodeId="node-0x68e85f0">
+  <item nodeId="node-0x68cbfa0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Backyard
@@ -1638,10 +1638,10 @@ Backyard
     <changed>YES</changed>
     <temporary score="12">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8660" />
+      <child nodeId="node-0x68cc010" />
     </children>
   </item>
-  <item nodeId="node-0x68e8660">
+  <item nodeId="node-0x68cc010">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bunker
@@ -1652,10 +1652,10 @@ You can see Metal head here.
     <changed>YES</changed>
     <temporary score="12">YES</temporary>
     <children>
-      <child nodeId="node-0x68e86d0" />
+      <child nodeId="node-0x68cc080" />
     </children>
   </item>
-  <item nodeId="node-0x68e86d0">
+  <item nodeId="node-0x68cc080">
     <command xml:space="preserve">take head</command>
     <result xml:space="preserve">Taken.
 
@@ -1664,16 +1664,16 @@ You can see Metal head here.
     <changed>YES</changed>
     <temporary score="12">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8740" />
+      <child nodeId="node-0x68cc0f0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8740">
+  <item nodeId="node-0x68cc0f0">
     <command xml:space="preserve">combine handle with head</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="11">YES</temporary>
   </item>
-  <item nodeId="node-0x68e87b0">
+  <item nodeId="node-0x68cc160">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1682,11 +1682,11 @@ You can see Metal head here.
     <changed>NO</changed>
     <temporary score="38">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9230" />
-      <child nodeId="node-0x68e8820" />
+      <child nodeId="node-0x68ccbe0" />
+      <child nodeId="node-0x68cc1d0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8820">
+  <item nodeId="node-0x68cc1d0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -1697,10 +1697,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8890" />
+      <child nodeId="node-0x68cc240" />
     </children>
   </item>
-  <item nodeId="node-0x68e8890">
+  <item nodeId="node-0x68cc240">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Bedroom
@@ -1711,10 +1711,10 @@ You can see Wooden Handle here.
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8900" />
+      <child nodeId="node-0x68cc2b0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8900">
+  <item nodeId="node-0x68cc2b0">
     <command xml:space="preserve">take handle </command>
     <result xml:space="preserve">Taken.
 
@@ -1723,10 +1723,10 @@ You can see Wooden Handle here.
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8970" />
+      <child nodeId="node-0x68cc320" />
     </children>
   </item>
-  <item nodeId="node-0x68e8970">
+  <item nodeId="node-0x68cc320">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -1737,10 +1737,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e89e0" />
+      <child nodeId="node-0x68cc390" />
     </children>
   </item>
-  <item nodeId="node-0x68e89e0">
+  <item nodeId="node-0x68cc390">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Kitchen
@@ -1750,10 +1750,10 @@ Kitchen
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8a50" />
+      <child nodeId="node-0x68cc400" />
     </children>
   </item>
-  <item nodeId="node-0x68e8a50">
+  <item nodeId="node-0x68cc400">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -1764,10 +1764,10 @@ You can see Steel door and Erwin here.
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8ac0" />
+      <child nodeId="node-0x68cc470" />
     </children>
   </item>
-  <item nodeId="node-0x68e8ac0">
+  <item nodeId="node-0x68cc470">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Backyard
@@ -1777,10 +1777,10 @@ Backyard
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8b30" />
+      <child nodeId="node-0x68cc4e0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8b30">
+  <item nodeId="node-0x68cc4e0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bunker
@@ -1791,10 +1791,10 @@ You can see Metal head here.
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8ba0" />
+      <child nodeId="node-0x68cc550" />
     </children>
   </item>
-  <item nodeId="node-0x68e8ba0">
+  <item nodeId="node-0x68cc550">
     <command xml:space="preserve">take head </command>
     <result xml:space="preserve">Taken.
 
@@ -1803,10 +1803,10 @@ You can see Metal head here.
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8c10" />
+      <child nodeId="node-0x68cc5c0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8c10">
+  <item nodeId="node-0x68cc5c0">
     <command xml:space="preserve">combine head with handle</command>
     <result xml:space="preserve">You fuse together Metal head and Wooden Handle.
 
@@ -1817,10 +1817,10 @@ You now have a Sledgehammer.
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8c80" />
+      <child nodeId="node-0x68cc630" />
     </children>
   </item>
-  <item nodeId="node-0x68e8c80">
+  <item nodeId="node-0x68cc630">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1829,10 +1829,10 @@ You now have a Sledgehammer.
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8cf0" />
+      <child nodeId="node-0x68cc6a0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8cf0">
+  <item nodeId="node-0x68cc6a0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Backyard
@@ -1842,10 +1842,10 @@ Backyard
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8d60" />
+      <child nodeId="node-0x68cc710" />
     </children>
   </item>
-  <item nodeId="node-0x68e8d60">
+  <item nodeId="node-0x68cc710">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bunker
@@ -1855,10 +1855,10 @@ Bunker
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8dd0" />
+      <child nodeId="node-0x68cc780" />
     </children>
   </item>
-  <item nodeId="node-0x68e8dd0">
+  <item nodeId="node-0x68cc780">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Backyard
@@ -1868,10 +1868,10 @@ Backyard
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8e40" />
+      <child nodeId="node-0x68cc7f0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8e40">
+  <item nodeId="node-0x68cc7f0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Lab
@@ -1882,10 +1882,10 @@ You can see Steel door and Erwin here.
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8eb0" />
+      <child nodeId="node-0x68cc860" />
     </children>
   </item>
-  <item nodeId="node-0x68e8eb0">
+  <item nodeId="node-0x68cc860">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Kitchen
@@ -1895,10 +1895,10 @@ Kitchen
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8f20" />
+      <child nodeId="node-0x68cc8d0" />
     </children>
   </item>
-  <item nodeId="node-0x68e8f20">
+  <item nodeId="node-0x68cc8d0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1907,10 +1907,10 @@ Kitchen
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e8f90" />
+      <child nodeId="node-0x68cc940" />
     </children>
   </item>
-  <item nodeId="node-0x68e8f90">
+  <item nodeId="node-0x68cc940">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -1921,10 +1921,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9000" />
+      <child nodeId="node-0x68cc9b0" />
     </children>
   </item>
-  <item nodeId="node-0x68e9000">
+  <item nodeId="node-0x68cc9b0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Front Yard
@@ -1937,10 +1937,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9070" />
+      <child nodeId="node-0x68cca20" />
     </children>
   </item>
-  <item nodeId="node-0x68e9070">
+  <item nodeId="node-0x68cca20">
     <command xml:space="preserve">unlock Ice pond with sledgehammer </command>
     <result xml:space="preserve">You unlock Ice pond.
 
@@ -1949,10 +1949,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e90e0" />
+      <child nodeId="node-0x68cca90" />
     </children>
   </item>
-  <item nodeId="node-0x68e90e0">
+  <item nodeId="node-0x68cca90">
     <command xml:space="preserve">open pond</command>
     <result xml:space="preserve">You open Ice pond, revealing Ice heart.
 
@@ -1961,10 +1961,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9150" />
+      <child nodeId="node-0x68ccb00" />
     </children>
   </item>
-  <item nodeId="node-0x68e9150">
+  <item nodeId="node-0x68ccb00">
     <command xml:space="preserve">take heart</command>
     <result xml:space="preserve">Taken.
 
@@ -1973,10 +1973,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>NO</changed>
     <temporary score="83">YES</temporary>
     <children>
-      <child nodeId="node-0x68e91c0" />
+      <child nodeId="node-0x68ccb70" />
     </children>
   </item>
-  <item nodeId="node-0x68e91c0">
+  <item nodeId="node-0x68ccb70">
     <command xml:space="preserve">give heart to angel</command>
     <result xml:space="preserve">Thank you kind human for returning the Ice heart. We will leave this planet in peace.
 
@@ -1985,7 +1985,7 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>NO</changed>
     <temporary score="82">YES</temporary>
   </item>
-  <item nodeId="node-0x68e9230">
+  <item nodeId="node-0x68ccbe0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -1998,19 +1998,19 @@ You can see Steel door and Erwin here.
     <changed>YES</changed>
     <temporary score="38">YES</temporary>
     <children>
-      <child nodeId="node-0x68ea2d0" />
-      <child nodeId="node-0x68e9620" />
-      <child nodeId="node-0x68e9310" />
-      <child nodeId="node-0x68e92a0" />
+      <child nodeId="node-0x68cdc80" />
+      <child nodeId="node-0x68ccfd0" />
+      <child nodeId="node-0x68cccc0" />
+      <child nodeId="node-0x68ccc50" />
     </children>
   </item>
-  <item nodeId="node-0x68e92a0">
+  <item nodeId="node-0x68ccc50">
     <command xml:space="preserve">x Analyzing machine</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="7">YES</temporary>
   </item>
-  <item nodeId="node-0x68e9310">
+  <item nodeId="node-0x68cccc0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Backyard
@@ -2021,10 +2021,10 @@ A place where you and your family like to host parties and other stuff. There ar
     <changed>YES</changed>
     <temporary score="38">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9380" />
+      <child nodeId="node-0x68ccd30" />
     </children>
   </item>
-  <item nodeId="node-0x68e9380">
+  <item nodeId="node-0x68ccd30">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bunker
@@ -2037,10 +2037,10 @@ You can see Metal head here.
     <changed>YES</changed>
     <temporary score="38">YES</temporary>
     <children>
-      <child nodeId="node-0x68e93f0" />
+      <child nodeId="node-0x68ccda0" />
     </children>
   </item>
-  <item nodeId="node-0x68e93f0">
+  <item nodeId="node-0x68ccda0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Backyard
@@ -2051,10 +2051,10 @@ A place where you and your family like to host parties and other stuff. There ar
     <changed>YES</changed>
     <temporary score="38">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9460" />
+      <child nodeId="node-0x68cce10" />
     </children>
   </item>
-  <item nodeId="node-0x68e9460">
+  <item nodeId="node-0x68cce10">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Lab
@@ -2067,10 +2067,10 @@ You can see Steel door and Erwin here.
     <changed>YES</changed>
     <temporary score="38">YES</temporary>
     <children>
-      <child nodeId="node-0x68e94d0" />
+      <child nodeId="node-0x68cce80" />
     </children>
   </item>
-  <item nodeId="node-0x68e94d0">
+  <item nodeId="node-0x68cce80">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Kitchen
@@ -2083,10 +2083,10 @@ You can see Knives here.
     <changed>YES</changed>
     <temporary score="38">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9540" />
+      <child nodeId="node-0x68ccef0" />
     </children>
   </item>
-  <item nodeId="node-0x68e9540">
+  <item nodeId="node-0x68ccef0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -2097,10 +2097,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>YES</changed>
     <temporary score="38">YES</temporary>
     <children>
-      <child nodeId="node-0x68e95b0" />
+      <child nodeId="node-0x68ccf60" />
     </children>
   </item>
-  <item nodeId="node-0x68e95b0">
+  <item nodeId="node-0x68ccf60">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Bedroom
@@ -2113,7 +2113,7 @@ You can see Boots and Wooden Handle here.
     <changed>YES</changed>
     <temporary score="37">YES</temporary>
   </item>
-  <item nodeId="node-0x68e9620">
+  <item nodeId="node-0x68ccfd0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bathroom
@@ -2123,10 +2123,10 @@ Bathroom
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9690" />
+      <child nodeId="node-0x68cd040" />
     </children>
   </item>
-  <item nodeId="node-0x68e9690">
+  <item nodeId="node-0x68cd040">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2135,10 +2135,10 @@ Bathroom
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9700" />
+      <child nodeId="node-0x68cd0b0" />
     </children>
   </item>
-  <item nodeId="node-0x68e9700">
+  <item nodeId="node-0x68cd0b0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Lab
@@ -2149,10 +2149,10 @@ You can see Steel door and Erwin here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9770" />
+      <child nodeId="node-0x68cd120" />
     </children>
   </item>
-  <item nodeId="node-0x68e9770">
+  <item nodeId="node-0x68cd120">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Kitchen
@@ -2162,10 +2162,10 @@ Kitchen
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e97e0" />
+      <child nodeId="node-0x68cd190" />
     </children>
   </item>
-  <item nodeId="node-0x68e97e0">
+  <item nodeId="node-0x68cd190">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -2176,10 +2176,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9850" />
+      <child nodeId="node-0x68cd200" />
     </children>
   </item>
-  <item nodeId="node-0x68e9850">
+  <item nodeId="node-0x68cd200">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Bedroom
@@ -2190,10 +2190,10 @@ You can see Wooden Handle here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e98c0" />
+      <child nodeId="node-0x68cd270" />
     </children>
   </item>
-  <item nodeId="node-0x68e98c0">
+  <item nodeId="node-0x68cd270">
     <command xml:space="preserve">take handel</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2202,10 +2202,10 @@ You can see Wooden Handle here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9930" />
+      <child nodeId="node-0x68cd2e0" />
     </children>
   </item>
-  <item nodeId="node-0x68e9930">
+  <item nodeId="node-0x68cd2e0">
     <command xml:space="preserve">take handel</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2214,10 +2214,10 @@ You can see Wooden Handle here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e99a0" />
+      <child nodeId="node-0x68cd350" />
     </children>
   </item>
-  <item nodeId="node-0x68e99a0">
+  <item nodeId="node-0x68cd350">
     <command xml:space="preserve">take handle</command>
     <result xml:space="preserve">Taken.
 
@@ -2226,10 +2226,10 @@ You can see Wooden Handle here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9a10" />
+      <child nodeId="node-0x68cd3c0" />
     </children>
   </item>
-  <item nodeId="node-0x68e9a10">
+  <item nodeId="node-0x68cd3c0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Living Room
@@ -2240,10 +2240,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9a80" />
+      <child nodeId="node-0x68cd430" />
     </children>
   </item>
-  <item nodeId="node-0x68e9a80">
+  <item nodeId="node-0x68cd430">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Kitchen
@@ -2253,10 +2253,10 @@ Kitchen
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9af0" />
+      <child nodeId="node-0x68cd4a0" />
     </children>
   </item>
-  <item nodeId="node-0x68e9af0">
+  <item nodeId="node-0x68cd4a0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Lab
@@ -2267,10 +2267,10 @@ You can see Steel door and Erwin here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9b60" />
+      <child nodeId="node-0x68cd510" />
     </children>
   </item>
-  <item nodeId="node-0x68e9b60">
+  <item nodeId="node-0x68cd510">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Backyard
@@ -2280,10 +2280,10 @@ Backyard
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9bd0" />
+      <child nodeId="node-0x68cd580" />
     </children>
   </item>
-  <item nodeId="node-0x68e9bd0">
+  <item nodeId="node-0x68cd580">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bunker
@@ -2294,10 +2294,10 @@ You can see Metal head here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9c40" />
+      <child nodeId="node-0x68cd5f0" />
     </children>
   </item>
-  <item nodeId="node-0x68e9c40">
+  <item nodeId="node-0x68cd5f0">
     <command xml:space="preserve">take metal head</command>
     <result xml:space="preserve">Taken.
 
@@ -2306,10 +2306,10 @@ You can see Metal head here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9cb0" />
+      <child nodeId="node-0x68cd660" />
     </children>
   </item>
-  <item nodeId="node-0x68e9cb0">
+  <item nodeId="node-0x68cd660">
     <command xml:space="preserve">combine metal head with wooden handel</command>
     <result xml:space="preserve">I only understood you as far as wanting to combine Metal head with Wooden Handle.
 
@@ -2318,10 +2318,10 @@ You can see Metal head here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9d20" />
+      <child nodeId="node-0x68cd6d0" />
     </children>
   </item>
-  <item nodeId="node-0x68e9d20">
+  <item nodeId="node-0x68cd6d0">
     <command xml:space="preserve">combine head with handle</command>
     <result xml:space="preserve">You fuse together Metal head and Wooden Handle.
 
@@ -2332,10 +2332,10 @@ You now have a Sledgehammer.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9d90" />
+      <child nodeId="node-0x68cd740" />
     </children>
   </item>
-  <item nodeId="node-0x68e9d90">
+  <item nodeId="node-0x68cd740">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Backyard
@@ -2345,10 +2345,10 @@ Backyard
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9e00" />
+      <child nodeId="node-0x68cd7b0" />
     </children>
   </item>
-  <item nodeId="node-0x68e9e00">
+  <item nodeId="node-0x68cd7b0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Lab
@@ -2359,10 +2359,10 @@ You can see Steel door and Erwin here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9e70" />
+      <child nodeId="node-0x68cd820" />
     </children>
   </item>
-  <item nodeId="node-0x68e9e70">
+  <item nodeId="node-0x68cd820">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bathroom
@@ -2372,10 +2372,10 @@ Bathroom
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9ee0" />
+      <child nodeId="node-0x68cd890" />
     </children>
   </item>
-  <item nodeId="node-0x68e9ee0">
+  <item nodeId="node-0x68cd890">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Lab
@@ -2386,10 +2386,10 @@ You can see Steel door and Erwin here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9f50" />
+      <child nodeId="node-0x68cd900" />
     </children>
   </item>
-  <item nodeId="node-0x68e9f50">
+  <item nodeId="node-0x68cd900">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Kitchen
@@ -2399,10 +2399,10 @@ Kitchen
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68e9fc0" />
+      <child nodeId="node-0x68cd970" />
     </children>
   </item>
-  <item nodeId="node-0x68e9fc0">
+  <item nodeId="node-0x68cd970">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living Room
@@ -2413,10 +2413,10 @@ A place where you and your family like to hang out. There&apos;s a TV on the eas
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68ea030" />
+      <child nodeId="node-0x68cd9e0" />
     </children>
   </item>
-  <item nodeId="node-0x68ea030">
+  <item nodeId="node-0x68cd9e0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Front Yard
@@ -2429,10 +2429,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68ea0a0" />
+      <child nodeId="node-0x68cda50" />
     </children>
   </item>
-  <item nodeId="node-0x68ea0a0">
+  <item nodeId="node-0x68cda50">
     <command xml:space="preserve">break Ice pond with sledgehammer</command>
     <result xml:space="preserve">I only understood you as far as wanting to break Ice pond.
 
@@ -2441,10 +2441,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68ea110" />
+      <child nodeId="node-0x68cdac0" />
     </children>
   </item>
-  <item nodeId="node-0x68ea110">
+  <item nodeId="node-0x68cdac0">
     <command xml:space="preserve">unlock Ice pond with sledgehammer </command>
     <result xml:space="preserve">You unlock Ice pond.
 
@@ -2453,10 +2453,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68ea180" />
+      <child nodeId="node-0x68cdb30" />
     </children>
   </item>
-  <item nodeId="node-0x68ea180">
+  <item nodeId="node-0x68cdb30">
     <command xml:space="preserve">open ice pond</command>
     <result xml:space="preserve">You open Ice pond, revealing Ice heart.
 
@@ -2465,10 +2465,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68ea1f0" />
+      <child nodeId="node-0x68cdba0" />
     </children>
   </item>
-  <item nodeId="node-0x68ea1f0">
+  <item nodeId="node-0x68cdba0">
     <command xml:space="preserve">take heart </command>
     <result xml:space="preserve">Taken.
 
@@ -2477,10 +2477,10 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x68ea260" />
+      <child nodeId="node-0x68cdc10" />
     </children>
   </item>
-  <item nodeId="node-0x68ea260">
+  <item nodeId="node-0x68cdc10">
     <command xml:space="preserve">give ice heart to angel</command>
     <result xml:space="preserve">Ice Angel doesn&apos;t seem interested.
 
@@ -2489,7 +2489,7 @@ You can see Bucket of Snow and Ice Angel here.
     <changed>YES</changed>
     <temporary score="32">YES</temporary>
   </item>
-  <item nodeId="node-0x68ea2d0">
+  <item nodeId="node-0x68cdc80">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">(first opening Steel door)
 The door is sealed shut and seems like opens only when the correct combination is spun in the spin dial at once. You must spin the dial to the correct 5 digit code.
@@ -2499,10 +2499,10 @@ The door is sealed shut and seems like opens only when the correct combination i
     <changed>YES</changed>
     <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0x68ea340" />
+      <child nodeId="node-0x68cdcf0" />
     </children>
   </item>
-  <item nodeId="node-0x68ea340">
+  <item nodeId="node-0x68cdcf0">
     <command xml:space="preserve">dial 91998</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2511,10 +2511,10 @@ The door is sealed shut and seems like opens only when the correct combination i
     <changed>YES</changed>
     <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0x68ea3b0" />
+      <child nodeId="node-0x68cdd60" />
     </children>
   </item>
-  <item nodeId="node-0x68ea3b0">
+  <item nodeId="node-0x68cdd60">
     <command xml:space="preserve">spin dial to 91998</command>
     <result xml:space="preserve">The door unlocks and opens with a hiss
 &gt;</result>
@@ -2522,10 +2522,10 @@ The door is sealed shut and seems like opens only when the correct combination i
     <changed>YES</changed>
     <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0x68ea420" />
+      <child nodeId="node-0x68cddd0" />
     </children>
   </item>
-  <item nodeId="node-0x68ea420">
+  <item nodeId="node-0x68cddd0">
     <command xml:space="preserve">open door</command>
     <result xml:space="preserve">You open Steel door.
 
@@ -2534,10 +2534,10 @@ The door is sealed shut and seems like opens only when the correct combination i
     <changed>YES</changed>
     <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0x68ea490" />
+      <child nodeId="node-0x68cde40" />
     </children>
   </item>
-  <item nodeId="node-0x68ea490">
+  <item nodeId="node-0x68cde40">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Testing Room
@@ -2548,10 +2548,10 @@ You can see Steel door here.
     <changed>YES</changed>
     <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0x68ea500" />
+      <child nodeId="node-0x68cdeb0" />
     </children>
   </item>
-  <item nodeId="node-0x68ea500">
+  <item nodeId="node-0x68cdeb0">
     <command xml:space="preserve">s</command>
     <played>YES</played>
     <changed>YES</changed>
